@@ -1,9 +1,9 @@
 var i=0;
 setInterval(function(){
     var titles=[
-"uzi scripting. 👿",
-"uzi scripting. 🤑",
-"uzi scripting. 😇"
+"uzi Around 👿",
+"uzi Since 🤑",
+"uzi.2019. 😇"
 ]
 
     if(i===titles.length) {
