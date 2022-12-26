@@ -1,9 +1,10 @@
 var i=0;
 setInterval(function(){
     var titles=[
-"uzi Around 👿",
-"uzi Since 🤑",
-"uzi.2019. 😇"
+"uzi.r ",
+"uzi.ri ",
+"uzi.rip 😇".
+"uzi.ri "
 ]
 
     if(i===titles.length) {
